@@ -1,0 +1,66 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{096FBF10-FA89-42F0-AC9A-0E32C583853C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilio.Api", "src\Twilio.Api\Twilio.Api.csproj", "{3499FD04-6736-41E5-A78B-DE145E0D2B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilio.Cmder", "src\Twilio.Cmder\Twilio.Cmder.csproj", "{3C1EB234-0D33-45FC-921D-758DDE59C802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Debug|x64.ActiveCfg = Debug|x64
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Debug|x64.Build.0 = Debug|x64
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Debug|x86.ActiveCfg = Debug|x86
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Debug|x86.Build.0 = Debug|x86
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Release|x64.ActiveCfg = Release|x64
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Release|x64.Build.0 = Release|x64
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Release|x86.ActiveCfg = Release|x86
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10}.Release|x86.Build.0 = Release|x86
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Debug|x64.ActiveCfg = Debug|x64
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Debug|x64.Build.0 = Debug|x64
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Debug|x86.ActiveCfg = Debug|x86
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Debug|x86.Build.0 = Debug|x86
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Release|x64.ActiveCfg = Release|x64
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Release|x64.Build.0 = Release|x64
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Release|x86.ActiveCfg = Release|x86
+		{F6D04553-107E-462A-88DF-BF0242FD8A7D}.Release|x86.Build.0 = Release|x86
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Debug|x64.ActiveCfg = Debug|x64
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Debug|x64.Build.0 = Debug|x64
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Debug|x86.ActiveCfg = Debug|x86
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Debug|x86.Build.0 = Debug|x86
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Release|x64.ActiveCfg = Release|x64
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Release|x64.Build.0 = Release|x64
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Release|x86.ActiveCfg = Release|x86
+		{3C1EB234-0D33-45FC-921D-758DDE59C802}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3499FD04-6736-41E5-A78B-DE145E0D2B10} = {096FBF10-FA89-42F0-AC9A-0E32C583853C}		
+		{3C1EB234-0D33-45FC-921D-758DDE59C802} = {096FBF10-FA89-42F0-AC9A-0E32C583853C}
+	EndGlobalSection
+EndGlobal
